@@ -6,7 +6,7 @@ A public collection of public partial code snippets and stand-alone scripts.
 A function I use often to chop up and send large amounts of pandas data to APIs to stay under payload limits, and allow fo closer error monitoring.
 
 
-## Recursive APIs
+## G-Suite Email to Sheets Tracker
 **Google AppsScript**
 A script that:
 - Searches for specific unread emails in a google mail inbox
