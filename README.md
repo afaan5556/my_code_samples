@@ -13,3 +13,8 @@ A script that:
 - Parses each email subject and/or body for specific text
 - Adds the text to a google sheet
 - Marks each email as unread
+
+
+## Low Poly-Art
+**Python + Pygame + ffmpeg**
+A jupyter notebook adapted from [this](https://cosmiccoding.com.au/tutorials/lowpoly) Samuel Hinton tutorial that creates a low poly-art video of an input image.
