@@ -18,3 +18,7 @@ A script that:
 ## Low Poly-Art
 **Python + Pygame + ffmpeg**
 A jupyter notebook adapted from [this](https://cosmiccoding.com.au/tutorials/lowpoly) Samuel Hinton tutorial that creates a low poly-art video of an input image.
+
+## Terminal Blackjack
+**Python**
+An interactive blackjack game that can be played in ther terminal/console. Written in python using object-oriented principles.
