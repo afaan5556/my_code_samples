@@ -4,7 +4,7 @@
 - Andrew Yang and Isa Fulford
 ---
 
-## Introduction
+### Introduction
 
 Two types:
 - Base LLM
@@ -15,25 +15,17 @@ Two types:
 	- Tries to follow instructions
 	- "What is the capital of France" >> "Paris"
 	- Uses Reinforcement Learning with Human Feedback
-	Helpful, Honest, Harmless
+	- Helpful, Honest, Harmless
 
 
-## Guidelines
-See jupyter notebook
-
-
-## Iterative
-
-## Summarizing
-
-## Inferring
-
-## Transforming
-
-## Expanding
-
-## Chatbot
-
-## Conclusions
+### See numbered jupyter notebooks for each course section:
+1. Guidelines
+2. Iterative
+3. Summarizing
+4. Inferring
+5. Transforming
+6. Expanding
+7. Chatbot
+8. Conclusions
 
 
